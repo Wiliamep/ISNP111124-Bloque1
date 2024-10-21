@@ -1,0 +1,7 @@
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Lenovo x280\Desktop\ISNP111124-Bloque1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
